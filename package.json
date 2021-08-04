@@ -1,0 +1,9 @@
+{
+  "name": "Solidity-Signature-Parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "promisefy-util": "^1.2.0",
+    "web3": "^1.3.6"
+  }
+}
